@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Last Chaos GM Tool](https://github.com/theonsin/Last-Chaos-GM-Tool) / [Ultimate Setup](https://github.com/theonsin/UltimateSetup) <br>🌱 I’m currently learning CSS3<br>💬 Ask me about Video-games<br>⚡ Fun fact ???....
+🔭 I’m currently working on [Last Chaos GM Tool](https://github.com/theonsin/Last-Chaos-GM-Tool) / [Ultimate Setup](https://github.com/theonsin/UltimateSetup) <br>🌱 I’m currently learning Vue | C# <br>💬 Ask me about Video-games<br>⚡ Fun fact ???....
 
 [![wakatime](https://wakatime.com/badge/user/d552153a-46a4-4e4d-844e-f5cec15b1459.svg)](https://wakatime.com/@d552153a-46a4-4e4d-844e-f5cec15b1459)
 
